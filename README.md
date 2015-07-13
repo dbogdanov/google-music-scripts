@@ -1,5 +1,5 @@
 # google-music-scripts
-Scripts for playlist generation using unofficial Google Music API
+Scripts for playlist generation using [unofficial Google Music API](https://unofficial-google-music-api.readthedocs.org).
 
 Google Music allows browsing your music collection by genre, but it does not support multi-genre annotations in track metadata that can be typically found after using tagger tools like MusicBrainz Picard.
 
